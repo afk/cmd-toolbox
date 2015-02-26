@@ -17,8 +17,13 @@
 	- **G**: Move to last line
 	- **:[num]** / **[num]G**: Move to line
 	- **gg**: Move to first line
-	- **^D**: Half-page down
-	- **^U**: Half-page up
+	- **^d**: Half-page down
+	- **^u**: Half-page up
+	- **^f**: page down
+	- **^b**: page up
+	- **H**: Cursor to top/upper left corner
+	- **M**: Cursor to middle (line)
+	- **L**: Cursor to bottom/lower left corner
 - Search
 	- **/[pattern]**: Search for pattern (forward)
 	- **n**: Repeat/continue search
