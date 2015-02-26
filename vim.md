@@ -15,8 +15,11 @@
 	- **[num]w**: Move forward word-wise
 	- **[num]b**: Move backward word-wise
 	- **G**: Move to last line
+	- **:[num]** / **[num]G**: Move to line
 	- **gg**: Move to first line
 	- **^D**: Half-page down
 	- **^U**: Half-page up
 - Search
-	- **/[pattern]**: Search for pattern
+	- **/[pattern]**: Search for pattern (forward)
+	- **n**: Repeat/continue search
+	- **Shift-n**: Repeat search reverse (backward)
