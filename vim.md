@@ -1,10 +1,13 @@
 # Vim
 
 - Modes
-	- **i**: Insert
+	- **i**: Insert (before cursor)
+	- **a**: Append (after cursor)
 	- **Shift-i**: Insert at start of line
 	- **Shift-a**: Insert/append at end of line
 	- **Shift-r**: Replace
+	- **o**: Open line below
+	- **Shift-o**: Open line above
 - Navigation
 	- **0**: Start of line
 	- **^**: First non blank char
