@@ -9,6 +9,10 @@
 - [How To Setup a CA](http://pages.cs.wisc.edu/~zmiller/ca-howto/)
 - [SSL Certificates HOWTO](http://www.tldp.org/HOWTO/SSL-Certificates-HOWTO/index.html)
 - [Howto: Make Your Own Cert With OpenSSL](http://blog.didierstevens.com/2008/12/30/howto-make-your-own-cert-with-openssl/)
+- [ownCloud 7 unter FreeBSD 10.1](https://blog.cyberhouse.at/owncloud-unter-freebsd-10-1/)
+- [Server-Zertifikate mit StartSSL](http://www.debacher.de/wiki/Server-Zertifikate_mit_StartSSL)
+- [StartSSL SSL Zertifikate ausstellen lassen und in Apache2 Webserver einrichten](https://thomas-leister.de/open-source/linux/ubuntu/startssl-zertifikate-ausstellen-lassen-und-apache-einrichten/)
+- [Auth-O-Mat.com neues Zertifikat bei StartSSL.com](http://hydra.geht.net/tino/howto/linux/apache/apache--ssl/startssl/)
 
 ## GH-Projekte
 
