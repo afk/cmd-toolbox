@@ -13,6 +13,7 @@
 - [Server-Zertifikate mit StartSSL](http://www.debacher.de/wiki/Server-Zertifikate_mit_StartSSL)
 - [StartSSL SSL Zertifikate ausstellen lassen und in Apache2 Webserver einrichten](https://thomas-leister.de/open-source/linux/ubuntu/startssl-zertifikate-ausstellen-lassen-und-apache-einrichten/)
 - [Auth-O-Mat.com neues Zertifikat bei StartSSL.com](http://hydra.geht.net/tino/howto/linux/apache/apache--ssl/startssl/)
+- [We installed Redmine 2.2.2 + Passenger on FreeBSD 9.1](http://sysmagazine.com/posts/167515/)
 
 ## GH-Projekte
 
