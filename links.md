@@ -14,6 +14,10 @@
 - [StartSSL SSL Zertifikate ausstellen lassen und in Apache2 Webserver einrichten](https://thomas-leister.de/open-source/linux/ubuntu/startssl-zertifikate-ausstellen-lassen-und-apache-einrichten/)
 - [Auth-O-Mat.com neues Zertifikat bei StartSSL.com](http://hydra.geht.net/tino/howto/linux/apache/apache--ssl/startssl/)
 - [We installed Redmine 2.2.2 + Passenger on FreeBSD 9.1](http://sysmagazine.com/posts/167515/)
+- [Inside the Linux boot process](http://www.ibm.com/developerworks/linux/library/l-linuxboot/index.html)
+- [Motherboard Chipsets and the Memory Map](http://duartes.org/gustavo/blog/post/motherboard-chipsets-memory-map/)
+- [How Computers Boot Up](http://duartes.org/gustavo/blog/post/how-computers-boot-up/)
+- [The Kernel Boot Process](http://duartes.org/gustavo/blog/post/kernel-boot-process/)
 
 ## GH-Projekte
 
