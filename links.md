@@ -26,3 +26,4 @@
 - https://github.com/j4mie/paris
 - https://github.com/RaymiiOrg/ssl-decoder
 - https://github.com/bumptech/stud
+- https://github.com/ezSQL/ezSQL
